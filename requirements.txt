@@ -8,3 +8,4 @@ openai
 requests
 plotly
 matplotlib
+haversine
